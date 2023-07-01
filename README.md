@@ -14,5 +14,5 @@
     <li>Sign Out</li>
 </ul>
 <h2>Technologies</h2>
-<p><strong>Server:</strong> Firebase Auth, Firebase Storage, Firebase Firestore</p>
+<p><strong>Server:</strong> Firebase Authentication, Firebase Storage, Firebase Firestore</p>
 <p><strong>Client:</strong> Flutter, Provider</p>
